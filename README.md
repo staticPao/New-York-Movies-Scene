@@ -1,6 +1,5 @@
 # New-York-Movies-Scene 
 
-## 如何运行
 以上文件请使用Jupyter Notebook打开，运行前请确保数据集加载
 
 ## 概述  
