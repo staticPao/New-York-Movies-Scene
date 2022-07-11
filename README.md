@@ -1,6 +1,6 @@
 # New-York-Movies-Scene 
 
-以上文件请使用Jupyter Notebook打开，运行前请确保数据集加载
+请使用Jupyter Notebook打开，运行前请确保数据集加载
 
 ## 概述  
 本库未附数据集，数据来源于纽约市开放数据电影许可数据集(https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p)  
