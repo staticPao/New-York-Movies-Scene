@@ -10,4 +10,4 @@
 
 ## 关于COVID-19影响区间的参考 
 综合考虑纽约州州长签署的'New York State on PAUSE' Executive Order（https://www.governor.ny.gov/news/governor-cuomo-signs-new-york-state-pause-executive-order） 的执行日期和持续时间和纽约市健康网站关于COVID-19长期趋势的概述(https://www1.nyc.gov/site/doh/covid/covid-19-data-totals.page) 以及其他相关报道，本人将2020年3月至2020年9月定义为纽约市影视拍摄受COVID-19影响的时期，程序中涉及的"COVID-19期间"均指代此时间段。  
-注：以上链接如无法正常打开请尝试使用VPN
+
